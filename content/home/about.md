@@ -22,6 +22,11 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
+<!-- [[education.courses]]
+  course = "Visiting Research Affiliate "
+  institution = "Lawrence Berkeley National Laboratory"
+  year = 2017 -->
+
 [[education.courses]]
   course = "PhD in Theoretical Particle Physics"
   institution = "University of Edinburgh"
@@ -39,14 +44,15 @@ weight = 1
 
 +++
 
-<!-- # Biography
+# Profile
 
-Since the early days of my life as a researcher, I have been interested in numerical methods applied to physics.
-Before starting my PhD I performed research in Markov Chain and Monte Carlo algorithms, first applied to statistical systems like corrugated surfaces (two-dimensional) and then applied to quantum pure gauge theories (four-dimensional), with ties to theories of gravity.
-I expanded my physics reach during my PhD, studying gauge theories with extra dimensions and quantum field theories with scalar and fermions.
-Numerical methods were still at the center of my research.
-In particular, I used Lattice Field methods to investigate strongly-coupled theories which are not amenable to perturbative analytical methods.
-I was interested in gauge theories that could give rise to a particle similar to the Higgs boson, and that could extend our current knowledge of particle physics, currently summarized in the mathematically beautiful Standard Model.
+I am a researcher at RIKEN BNL Resarch Center, located at Brookhaven National Laboratory.
 
-During my first postdoctoral appointment I continued exploring gauge theories with Higgs candidates, but I also started studying dark matter theories.
-Using numerical simulations of strongly-coupled theories, I investigated possible dark matter candidates that are tightly-bound heavy composite states, but also elementary dark matter candidates like the axion, which are very light. -->
+My expertise is in Monte Carlo numerical simulations of quantum field theories, also known as Lattice Field Theory simulations, which use massively parallel supercomputers (CPU and GPU-based) around the world to understand the mysteries of particle physics.
+My research is focused on understanding strongly-coupled gauged theories, in particular in the context of extensions of the Standard Model (SM) of particle physics, like Dark Matter physics or theories of Composite Higgs.
+
+I am also engaged in projects related to nuclear physics, for example calculating nucleon-nucleon interactions or nuclear form-factors directly from the theory of Quantum Chromo-Dynamics (QCD).
+
+Recently I have been working on matrix models to study the gauge/gravity duality conjecture with the aim of understanding the possible intriguing relation between gauge theories and quantum gravity.
+
+I am currently researching new machine learning approaches to physics, from simple data analysis tools, to generative models.
