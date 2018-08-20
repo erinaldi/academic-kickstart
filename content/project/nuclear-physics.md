@@ -9,7 +9,7 @@ title = "Nuclear Physics from Lattice QCD"
 summary = "Understand the properties of hadrons from the fundamental theory of quarks and gluons (QCD)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "ga.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -24,8 +24,8 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = ""
+image = "headers/ga_land.jpg"
+caption = "Credits: E. Berkowitz"
 
 +++
 
