@@ -1,13 +1,11 @@
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-
-#baseurl = "https://quark.phy.bnl.gov/~erinaldi/"
+# for quark
+# baseurl = "https://quark.phy.bnl.gov/~erinaldi/"
+# for netlify
 baseurl = "/"
 title = "Enrico Rinaldi"
 copyright = "&copy; 2017 Enrico Rinaldi"
