@@ -4,9 +4,9 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 # for quark
-# baseurl = "https://quark.phy.bnl.gov/~erinaldi/"
+baseurl = "https://quark.phy.bnl.gov/~erinaldi/"
 # for netlify
-baseurl = "/"
+#baseurl = "/"
 title = "Enrico Rinaldi"
 copyright = "&copy; 2017 Enrico Rinaldi"
 theme = "academic"
