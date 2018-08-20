@@ -1,37 +1,37 @@
 +++
-title = "Tsukuba 2018"
+title = "New results on strongly-coupled theories near the conformal window"
 date = 2018-08-20T15:09:05-04:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-08-20T15:09:05-04:00
-time_end = 2018-08-20T15:09:05-04:00
+time_start = 2018-06-208T15:00:00-04:00
+time_end = 2018-06-28T16:00:00-04:00
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "Invited seminar"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "Tsukuba University"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["scgt"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["lattice","many-flavors","bsm","composite-higgs"]
 
 # Links (optional).
 url_pdf = ""
