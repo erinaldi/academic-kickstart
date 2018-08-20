@@ -22,11 +22,6 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
-<!-- [[education.courses]]
-  course = "Visiting Research Affiliate "
-  institution = "Lawrence Berkeley National Laboratory"
-  year = 2017 -->
-
 [[education.courses]]
   course = "PhD in Theoretical Particle Physics"
   institution = "University of Edinburgh"
