@@ -1,41 +1,41 @@
 +++
-title = "First-principles lattice QCD calculation of the neutron lifetime."
-date = 2018-08-20T14:46:06-04:00  # Schedule page publish date.
+title = "Tsukuba 2018"
+date = 2018-08-20T15:09:05-04:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-07-06T14:00:00-04:00
-time_end = 2018-07-06T14:20:00-04:00
+time_start = 2018-08-20T15:09:05-04:00
+time_end = 2018-08-20T15:09:05-04:00
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "ICHEP 2018"
-event_url = "https://indico.cern.ch/event/686555/timetable/#20180704"
+event = ""
+event_url = ""
 
 # Location of event.
-location = "Seoul, Korea"
+location = ""
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["nuclear-physics"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","nuclear","international"]
+tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://indico.cern.ch/event/686555/contributions/2960495/attachments/1681905/2702419/RinaldiE_neutron-lifetime_15mins.pdf"
+url_slides = ""
 url_video = ""
 url_code = ""
 
