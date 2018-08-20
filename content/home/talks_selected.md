@@ -8,7 +8,7 @@ title = "Selected Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 32
+weight = 50
 
 # List format.
 #   0 = Simple

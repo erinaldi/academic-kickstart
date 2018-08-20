@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-08-20T14:46:06-04:00
-time_end = 2018-08-20T14:46:06-04:00
+# time_start = 
+# time_end =
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -17,7 +17,7 @@ event = "ICHEP 2018"
 event_url = "https://indico.cern.ch/event/686555/timetable/#20180704"
 
 # Location of event.
-location = ""
+location = "Seoul, Korea"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -31,7 +31,7 @@ projects = ["nuclear-physics"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","nuclear"]
+tags = ["lattice","nuclear","international"]
 
 # Links (optional).
 url_pdf = ""
