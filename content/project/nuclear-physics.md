@@ -13,11 +13,11 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["nucl-phys"]
+tags = ["nuclear-physics","form-factors","nucleon-scattering","lattice-qcd","lattice"]
 
 # Optional external URL for project (replaces project detail page).
 # If there is an external link, there is no details page for the project...
-external_link = "http://c51.lbl.gov/~walkloud/callat/"
+#external_link = "http://c51.lbl.gov/~walkloud/callat/"
 
 # Does the project detail page use math formatting?
 math = true
@@ -28,3 +28,5 @@ image = "headers/bubbles-wide.jpg"
 caption = ""
 
 +++
+
+For more details see [CalLat](http://c51.lbl.gov/~walkloud/callat/).

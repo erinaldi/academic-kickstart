@@ -13,12 +13,14 @@ image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["scgt"]
+tags = ["scgt","lattice","mcmc","many-flavors","composite-higgs","bsm"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://lsd.physics.yale.edu/projects/"
+# external_link = "http://lsd.physics.yale.edu/projects/"
 
 # Does the project detail page use math formatting?
 math = true
 
 +++
+
+For more details on the Lattice Strong Dynamics collaboration, see [LSD](http://lsd.physics.yale.edu/projects/).

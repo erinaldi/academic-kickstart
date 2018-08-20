@@ -44,6 +44,7 @@ weight = 1
 I am a researcher at RIKEN BNL Resarch Center, located at Brookhaven National Laboratory.
 
 My expertise is in Monte Carlo numerical simulations of quantum field theories, also known as Lattice Field Theory simulations, which use massively parallel supercomputers (CPU and GPU-based) around the world to understand the mysteries of particle physics.
+
 My research is focused on understanding strongly-coupled gauged theories, in particular in the context of extensions of the Standard Model (SM) of particle physics, like Dark Matter physics or theories of Composite Higgs.
 
 I am also engaged in projects related to nuclear physics, for example calculating nucleon-nucleon interactions or nuclear form-factors directly from the theory of Quantum Chromo-Dynamics (QCD).

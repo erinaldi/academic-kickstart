@@ -13,7 +13,7 @@ image_preview = "hex_NUMSTRINGS.gif"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mcsmc","quantum gravity","monte carlo"]
+tags = ["mcsmc","quantum gravity","monte carlo","lattice","ads","cft"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/MCSMC"
@@ -23,3 +23,5 @@ math = true
 
 
 +++
+
+For more details about the Monte Carlo String/M-theory Collaboration, see the github page [MCSMC](https://mcsmc.github.io).

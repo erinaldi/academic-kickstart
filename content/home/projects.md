@@ -27,7 +27,7 @@ view = 1
 
 [[filter]]
   name = "Nuclear Physics"
-  tag = ".nucl-phys"
+  tag = ".nuclear-physics"
 
 [[filter]]
   name = "Strongly Interacting Gauge Theories"
