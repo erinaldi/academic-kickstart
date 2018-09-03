@@ -1,25 +1,31 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"
-active = false
+active = true
 date = "2017-11-21"
 
 # Order that this section will appear in.
-weight = 20
+weight = 5
 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # See `config.toml` for more info on available icons.
 
 [[feature]]
-  icon = "files-o"
+  icon = "area-chart"
   icon_pack = "fa"
   name = "Data Driven"
-  description = "..."
-  
+  description = "Obtain and analyze data to inform decisions. Probabilistic Inference. Descriptive Statistics. Time Series Analysis."
+
 [[feature]]
   icon = "pencil"
   icon_pack = "fa"
-  name = "Math"
-  description = "..."
+  name = "Mathematical Modeling"
+  description = "Simplify complex systems using models defined by mathematical equations. Algorithm development."
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fa"
+  name = "Programming"
+  description = "Python (PyTorch, TensorFlow, Keras), C/C++, Shell, Lua"
 
 +++
