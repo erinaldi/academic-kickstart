@@ -41,14 +41,12 @@ weight = 1
 
 # Profile
 
-I am a researcher at RIKEN BNL Research Center, located at Brookhaven National Laboratory.
+I am a researcher in computational theoretical physics at RIKEN BNL Research Center, located at Brookhaven National Laboratory.
 
-My expertise is in Monte Carlo numerical simulations of quantum field theories, also known as Lattice Field Theory simulations, which use massively parallel supercomputers (CPU and GPU-based) around the world to understand the mysteries of particle physics.
+My expertise is in Monte Carlo numerical simulations of quantum field theories, also known as Lattice Field Theory simulations, which use massively parallel supercomputers (CPU and GPU-based) around the world to solve the complex equations hiding the mysteries of particle physics.
 
-My research is focused on understanding strongly-coupled gauged theories, in particular in the context of extensions of the Standard Model (SM) of particle physics, like Dark Matter physics or theories of Composite Higgs.
+My research is focused on understanding high energy strongly-coupled gauged theories, in particular in the context of extensions of the Standard Model (SM) of particle physics, like Dark Matter physics or theories of Composite Higgs. New discoveries are hinging on the theoreticians' ability to make predictions that can be tested by experimentalists, and that is precisely the my goal.
 
-I am also engaged in projects related to nuclear physics, for example calculating nucleon-nucleon interactions or nuclear form-factors directly from the theory of Quantum Chromo-Dynamics (QCD).
+I am also engaged in projects related to low-energy nuclear physics, for example calculating nucleon-nucleon interactions or nuclear form-factors directly from the theory of Quantum Chromo-Dynamics (QCD). Moreover, I have been working on matrix models to study the gauge/gravity duality conjecture with the aim of understanding the possible intriguing relation between gauge theories and quantum gravity.
 
-Recently I have been working on matrix models to study the gauge/gravity duality conjecture with the aim of understanding the possible intriguing relation between gauge theories and quantum gravity.
-
-I am currently researching new machine learning approaches to physics, from simple data analysis tools to generative models.
+I am currently researching new Machine Learning (ML) approaches to physics, mainly based on the promising rise of generative models. The aim is to improve our ability to get access to multi-dimensional parametric distributions describing physical systems with specific models.

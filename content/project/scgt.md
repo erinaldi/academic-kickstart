@@ -6,7 +6,7 @@ date = "2017-04-18"
 title = "Near-conformal gauge theories with many flavors"
 
 # Project summary to display on homepage.
-summary = "This research project is done with the Lattice Strong Dynamics collaboration and with the LatKMI collaboration."
+summary = "Discover properties of strongly-interacting theories with many quarks via numerical Monte Carlo simulations."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "sm.jpg"
@@ -27,5 +27,9 @@ image = "headers/spectrum_over_F_moF_4f8f.jpg"
 caption = "Spectrum of 4f and 8f theories from Lattice simulations."
 
 +++
+
+We perform numerical Lattice Quantum Field Theory calculations using Monte Carlo methods to solve the strong dynamics of many flavor systems and understand which ones are close to QCD and which ones have new properties that indicate the existence of near-conformal dynamics.
+
+This research project is done with the Lattice Strong Dynamics collaboration and with the LatKMI collaboration.
 
 For more details on the Lattice Strong Dynamics collaboration, see [LSD](http://lsd.physics.yale.edu/projects/).

@@ -6,14 +6,14 @@ date = "2018-08-20"
 title = "Composite Dark Matter"
 
 # Project summary to display on homepage.
-summary = "This research project is done with the Lattice Strong Dynamics collaboration "
+summary = "Identify new dark matter candidates which are composite and made up of new elementary particles which could be discovered at the LHC"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "dark_matter.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["lattice","bsm","stealth","dark-matter"]
+tags = ["lattice","bsm","stealth","dark-matter","lhc"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "http://lsd.physics.yale.edu/projects/"

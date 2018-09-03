@@ -6,7 +6,7 @@ date = "2018-08-15"
 title = "Monte Carlo String/M-theory Collaboration"
 
 # Project summary to display on homepage.
-summary = "Developing Monte Carlo methods for Quantum Gravity via Holography"
+summary = "Develop Monte Carlo methods for Quantum Gravity via Holography"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "hex_NUMSTRINGS.gif"
@@ -21,6 +21,10 @@ tags = ["mcsmc","quantum gravity","monte carlo","lattice","ads","cft"]
 # Does the project detail page use math formatting?
 math = true
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/energy_quadN_Lno8_cut5000_withSUGRA_1oT.pdf"
+caption = "From JHEP 1806 (2018) 124"
 
 +++
 
