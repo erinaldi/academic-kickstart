@@ -57,14 +57,14 @@ enableGitInfo = false
   font = "classic"
 
   name = "Enrico Rinaldi"
-  role = "Research Associate in Particle Physics"
+  role = "Research Associate in Computational Particle Physics"
   organization = "RIKEN BNL Research Center"
   organization_url = "https://www.bnl.gov/riken/"
   avatar = "face_photo.jpg"
-  email = "erinaldi@bnl.gov"
+  email = "erinaldi.work@gmail.com"
   address = "Building 510 Room 2-52, Brookhaven National Laboratory, Upton, NY, 11973, USA"
   office_hours = ""
-  phone = "+1 631 344 8291"
+  phone = "+1 925 922 9097"
   skype = ""
   telegram = ""
 
