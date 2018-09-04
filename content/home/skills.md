@@ -28,4 +28,10 @@ weight = 5
   name = "Programming"
   description = "Python (PyTorch, TensorFlow, Keras), C/C++, Shell, Lua"
 
+[[feature]]
+  icon = "users"
+  icon_pack = "fa"
+  name = "Team player"
+  description = "Excellent interpersonal skills. Team leader and team player. Outstanding presentation skills"
+
 +++
