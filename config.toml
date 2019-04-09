@@ -58,13 +58,13 @@ enableGitInfo = false
 
   name = "Enrico Rinaldi"
   role = "Research Associate in Computational Particle Physics"
-  organization = "RIKEN BNL Research Center"
-  organization_url = "https://www.bnl.gov/riken/"
+  organization = "RIKEN Nishina Center"
+  organization_url = "http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/"
   avatar = "face_photo.jpg"
   email = "erinaldi.work@gmail.com"
-  address = "Building 510 Room 2-52, Brookhaven National Laboratory, Upton, NY, 11973, USA"
+  address = "Building C01 Room 425, 2-1 Hirosawa, Wako, Saitama, 351-0198 Japan"
   office_hours = ""
-  phone = "+1 925 922 9097"
+  phone = "+81-48-462-1226 Ext. 3446"
   skype = ""
   telegram = ""
 
