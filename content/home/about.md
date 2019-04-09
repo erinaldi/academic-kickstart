@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2017-04-18T00:00:00"
+date = "2019-04-09T00:00:00"
 draft = false
 
 widget = "about"
@@ -41,7 +41,7 @@ weight = 1
 
 # Profile
 
-I am a researcher in computational theoretical physics at RIKEN BNL Research Center, located at Brookhaven National Laboratory.
+I am a researcher in computational theoretical physics at the RIKEN Nishina Center in Wako, Japan.
 
 My expertise is in Monte Carlo numerical simulations of quantum field theories, also known as Lattice Field Theory simulations, which use massively parallel supercomputers (CPU and GPU-based) around the world to solve the complex equations hiding the mysteries of particle physics.
 

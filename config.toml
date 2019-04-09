@@ -216,7 +216,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:erinaldi@bnl.gov"
+    link = "mailto:erinaldi.work@gmail.com"
 
   [[params.social]]
     icon = "twitter"
