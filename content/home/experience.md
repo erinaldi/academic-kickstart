@@ -11,8 +11,6 @@ weight = 10
 +++
 ## Special Postdoctoral Fellow
 -   RIKEN Nishina Center - [RIKEN](http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/) (2019 - present)
-
-## Special Postdoctoral Fellow
 -   RIKEN BNL Research Center - [RBRC](http://www.bnl.gov/riken) (2016 - 2019)
 
 ## Visiting Research Affiliate
