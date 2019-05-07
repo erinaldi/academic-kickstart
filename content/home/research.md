@@ -1,7 +1,7 @@
 +++
 widget = "custom"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-05-07T00:00:00
 
 title = "Research"
 subtitle = ""
@@ -22,3 +22,8 @@ During my first postdoctoral appointment, I continued exploring [gauge theories 
 Using numerical simulations of *strongly-coupled theories*, I investigated possible dark matter candidates that are [tightly-bound heavy composite states](https://doi.org/10.1103/PhysRevLett.115.171803), but also elementary dark matter candidates like the [axion](https://doi.org/10.1103/PhysRevD.92.034507), which are very light.
 I also started an independent project about low-dimensional gauge theories connected to quantum gravity in order to test the [holographic principle](https://en.wikipedia.org/wiki/Holographic_principle), also called *gauge/gravity* duality conjecture.
 The powerful computational resources used in this project allowed me to complete the [best test](https://doi.org/10.1103/PhysRevD.94.094501) of the holographic principle in 1 dimension, using numerical methods.
+
+Right now I am completing my second postdoctoral appointment during which I have started studying the properties of the [neutron](https://en.wikipedia.org/wiki/Neutron) from the *fundamental theory* of its constituents, quarks and gluons.
+This theory, called [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics), can be solved using numerical Lattice Field theory methods but it requires the most powerful supercomputers in the [world](https://www.top500.org).
+One of the achievements is the calculation of the strength of interaction between the neutron and the weak gauge boson of the *Standard Model*.
+With an accuracy of 1% we can [predict](https://www.nature.com/articles/s41586-018-0161-8) this strength directly from the equations of the fundamental theory, and this can reveal important signals of new physics when confronted with experimental [results](https://www.nature.com/articles/d41586-019-01203-9) about the life of neutrons.
