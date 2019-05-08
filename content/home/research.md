@@ -27,3 +27,5 @@ Right now I am completing my second postdoctoral appointment during which I have
 This theory, called [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics), can be solved using numerical Lattice Field theory methods but it requires the most powerful supercomputers in the [world](https://www.top500.org).
 One of the achievements is the calculation of the strength of interaction between the neutron and the weak gauge boson of the *Standard Model*.
 With an accuracy of 1% we can [predict](https://www.nature.com/articles/s41586-018-0161-8) this strength directly from the equations of the fundamental theory, and this can reveal important signals of new physics when confronted with experimental [results](https://www.nature.com/articles/d41586-019-01203-9) about the life of neutrons.
+
+The complete list of my publications can be found on [inspireHEP](inspirehep.net/author/profile/E.Rinaldi.1).
