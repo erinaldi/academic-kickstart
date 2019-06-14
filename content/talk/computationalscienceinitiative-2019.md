@@ -1,12 +1,12 @@
 +++
-title = "New results on strongly-coupled theories near the conformal window"
-date = 2018-08-20T15:09:05-04:00  # Schedule page publish date.
+title = "The neutron lifetime with near-Exascale computing."
+date = 20189-06-14T15:09:05-04:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-06-28T15:00:00-04:00
-time_end = 2018-06-28T16:00:00-04:00
+time_start = 2019-01-07T11:00:00-04:00
+time_end = 2019-01-07T12:00:00-04:00
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -17,7 +17,7 @@ event = "Invited seminar"
 event_url = ""
 
 # Location of event.
-location = "Tsukuba University"
+location = "Computational Science Initiative, Brookhaven National Laboratory"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -27,15 +27,15 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["scgt"]
+projects = ["nuclear-physics"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","many-flavors","bsm","composite-higgs"]
+tags = ["lattice","lattice-qcd","qcd",'nuclear-physics']
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://drive.google.com/uc?export=download&id=1F8pZRmFLepEJP_z-bq6HOXH5GusohmRq"
 url_video = ""
 url_code = ""
 
