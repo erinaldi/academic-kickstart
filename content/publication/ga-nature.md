@@ -40,13 +40,13 @@ projects = ["nuclear-physics"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","lattice-qcd","nuclear-physics","nature"]
+tags = ["lattice","lattice QCD","Nuclear Physics","Nature"]
 
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/abs/1805.12130"
 url_code = "https://github.com/callat-qcd/project_gA"
-url_dataset = ""
+url_dataset = "https://doi.org/10.5281/zenodo.1241374"
 url_project = ""
 url_slides = ""
 url_video = ""
