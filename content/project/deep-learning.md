@@ -9,7 +9,7 @@ title = "Machine Learning in Physics"
 summary = "Identify directions in machine learning that are useful to theoretical particle physics."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "Header_Neural_networks.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "headers/neuronlarge.jpg"
+caption = "The scientists' apprentice - Science, July 7, 2017 by Tim Appenzeller"
 
 +++
 
