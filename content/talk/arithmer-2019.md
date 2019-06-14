@@ -1,6 +1,6 @@
 +++
 title = "The Data Science of Physics"
-date = 2019-06-14T10:00:05-04:00  # Schedule page publish date: when it will be shown online...
+date = 2019-06-13T10:00:05-04:00  # Schedule page publish date: when it will be shown online...
 draft = false
 
 # Talk start and end times.

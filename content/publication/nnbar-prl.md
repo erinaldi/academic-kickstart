@@ -1,6 +1,6 @@
 +++
 title = "Neutron-antineutron oscillations from lattice QCD"
-date = 2019-06-14T10:00:00-04:00
+date = 2019-06-13T10:00:00-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
