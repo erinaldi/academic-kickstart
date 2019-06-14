@@ -31,7 +31,7 @@ projects = ["scgt"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","many-flavors","bsm","composite-higgs"]
+tags = ["lattice","seminar","Beyond Standard Model","Composite Higgs"]
 
 # Links (optional).
 url_pdf = ""

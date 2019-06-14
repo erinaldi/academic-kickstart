@@ -31,7 +31,7 @@ projects = ["nuclear-physics"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","nuclear","international"]
+tags = ["lattice","lattice QCD","Nuclear Physics","conference"]
 
 # Links (optional).
 url_pdf = ""

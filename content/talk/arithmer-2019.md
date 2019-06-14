@@ -31,7 +31,7 @@ projects = ["deep-learning"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Physics","Machine Learning","Data Science","Deep Learning"]
+tags = ["Physics","Machine Learning","Data Science","Deep Learning","seminar"]
 
 # Links (optional).
 url_pdf = ""
