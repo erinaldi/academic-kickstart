@@ -1,6 +1,6 @@
 +++
 title = "Lattice Composite Dark Matter"
-date = 2019-06-14T14:46:06-04:00  # Schedule page publish date.
+date = 2019-06-14T10:00:00-04:00  # Schedule page publish date: when it will be shown online...
 draft = false
 
 # Talk start and end times.
