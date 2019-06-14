@@ -44,4 +44,9 @@ view = 1
 [[filter]]
   name = "Quantum Gravity"
   tag = ".mcsmc"
+
+[[filter]]
+  name = "Deep Learning"
+  tag = ".deep-learning"
+
 +++
