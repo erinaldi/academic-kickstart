@@ -9,7 +9,7 @@ subtitle = "Current and past affiliations"
 weight = 10
 
 +++
-## Special Postdoctoral Fellow
+## Special Postdoctoral Research Fellow
 -   RIKEN Nishina Center - [RIKEN](http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/) (2019 - present)
 -   RIKEN BNL Research Center - [RBRC](http://www.bnl.gov/riken) (2016 - 2019)
 
@@ -18,3 +18,6 @@ weight = 10
 
 ## Postdoctoral Researcher
 -   Lawrence Livermore National Laboratory - [LLNL](https://www.llnl.gov) (2013 - 2016)
+
+## JSPS Short-term Fellow
+-   Kobayashi-Maskawa Institute, Nagoya University - [KMI](http://www.kmi.nagoya-u.ac.jp) (2012 - 2012)
