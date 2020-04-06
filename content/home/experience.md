@@ -9,8 +9,14 @@ subtitle = "Current and past affiliations"
 weight = 10
 
 +++
+## AI Researcher/Engineer
+-   Arithmer Inc. - [Arithmer](https://arithmer.co.jp) (2019 - present)
+
+## Visiting Research Scientist
+-   RIKEN iTHEMS - [iTHEMS](https://ithems.riken.jp/en) (2019 - present)
+
 ## Special Postdoctoral Research Fellow
--   RIKEN Nishina Center - [RIKEN](http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/) (2019 - present)
+-   RIKEN Nishina Center - [RIKEN](http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/) (2019 - 2019)
 -   RIKEN BNL Research Center - [RBRC](http://www.bnl.gov/riken) (2016 - 2019)
 
 ## Visiting Research Affiliate
