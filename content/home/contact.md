@@ -1,12 +1,10 @@
 +++
 # Contact widget.
-
-date = "2017-04-18T00:00:00"
-active = true
+widget = "contact"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 
 title = "Contact"
 subtitle = ""
-widget = "contact"
 
 # Order that this section will appear in.
 weight = 70
