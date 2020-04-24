@@ -27,7 +27,7 @@ flip_alt_rows = false
 
 # Filter toolbar.
 # Add or remove as many filters (`[[filter]]` instances) as you like.
-# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
+# Use "*" tag to show all projects or an existing tag prefixed with ".js-id-" to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
   name = "All"
@@ -35,26 +35,26 @@ flip_alt_rows = false
 
 [[filter]]
   name = "Nuclear Physics"
-  tag = ".nuclear-physics"
+  tag = ".js-id-nuclear-physics"
 
 [[filter]]
   name = "Strongly Interacting Gauge Theories"
-  tag = ".scgt"
+  tag = ".js-id-scgt"
 
 [[filter]]
   name = "Strongly Coupled Dark Matter"
-  tag = ".stealth"
+  tag = ".js-id-stealth"
 
 [[filter]]
   name = "Axion Dark Matter"
-  tag = ".axion"
+  tag = ".js-id-axion"
 
 [[filter]]
   name = "Quantum Gravity"
-  tag = ".mcsmc"
+  tag = ".js-id-mcsmc"
 
 [[filter]]
   name = "Deep Learning"
-  tag = ".deep-learning"
+  tag = ".js-id-deep-learning"
 
 +++

@@ -13,37 +13,31 @@ weight = 10
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "January 2006"
 
-[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+[[experience]]
+  title = "AI Researcher/Engineer"
+  company = "Arithmer Inc."
+  company_url = "https://arithmer.co.jp"
+  location = "Tokyo"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Working on state-of-the-art deep learning algorithms in 3D Computer Vision for robotics and computer graphics. Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Research
+  * Data exploration
+  * Model experiments
+  * Deployment
+  """
+
+[[experience]]
+  title = "Visiting Research Scientist"
+  company = "RIKEN iTHEMS"
+  company_url = "https://ithems.riken.jp/en"
+  location = "Wako"
+  date_start = "2019-11-01"
+  date_end = ""
+  description = """
+  Research on "Quantum Computing and Machine Learning" for discoveries in physics through computational advantage. 
   """
 
 +++
-## AI Researcher/Engineer
--   Arithmer Inc. - [Arithmer](https://arithmer.co.jp) (2019 - present)
-
-## Visiting Research Scientist
--   RIKEN iTHEMS - [iTHEMS](https://ithems.riken.jp/en) (2019 - present)
-
-## Special Postdoctoral Research Fellow
--   RIKEN Nishina Center - [RIKEN](http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/) (2019 - 2019)
--   RIKEN BNL Research Center - [RBRC](http://www.bnl.gov/riken) (2016 - 2019)
-
-## Visiting Research Affiliate
--   Lawrence Berkeley National Laboratory - [LBNL](https://lbl.gov) (2017 - 2018)
-
-## Postdoctoral Researcher
--   Lawrence Livermore National Laboratory - [LLNL](https://www.llnl.gov) (2013 - 2016)
-
-## JSPS Short-term Fellow
--   Kobayashi-Maskawa Institute, Nagoya University - [KMI](http://www.kmi.nagoya-u.ac.jp) (2012 - 2012)
