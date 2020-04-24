@@ -4,7 +4,7 @@ widget = "featurette"
 active = true
 
 # Order that this section will appear in.
-weight = 5
+weight = 20
 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # See `config.toml` for more info on available icons.

@@ -1,11 +1,44 @@
 +++
-widget = "custom"
+# A Research section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget = "blank"
 active = true
 
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Research"
-subtitle = ""
+subtitle = "A brief overview of my reaserch topics."
 
-weight = 20
+weight = 40
+
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  # Background color.
+  # color = "navy"
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  # Background image.
+  image = "headers/neuronlarge.jpg"  # Name of image in static/img/`.
+  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # Text color (true=light or false=dark).
+  text_color_light = true
+
+[advanced]
+ # Custom CSS.
+ css_style = "padding-top: 20px; padding-bottom: 20px;"
+
+ # CSS class.
+ css_class = ""
 
 +++
 

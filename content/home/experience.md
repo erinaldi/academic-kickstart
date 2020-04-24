@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 title = "Experience"
 subtitle = "Current and past affiliations"
 
-weight = 10
+weight = 30
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
