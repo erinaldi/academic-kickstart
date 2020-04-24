@@ -23,7 +23,7 @@ publication_short = "ECTs"
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Featured image thumbnail (optional)
 
@@ -55,7 +55,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

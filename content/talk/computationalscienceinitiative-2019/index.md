@@ -10,7 +10,7 @@ time_end = 2019-01-07T12:00:00-04:00
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = "Invited seminar"

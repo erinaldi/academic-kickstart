@@ -10,7 +10,7 @@ time_end = 2018-10-04T11:15:00-04:00
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = "Interdisciplinary approach to QCD-like composite dark matter"

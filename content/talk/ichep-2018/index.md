@@ -10,7 +10,7 @@ time_end = 2018-07-06T14:20:00-04:00
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
+summary = ""
 
 # Name of event and optional event URL.
 event = "ICHEP 2018"

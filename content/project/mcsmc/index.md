@@ -20,7 +20,7 @@ summary = "Develop Monte Carlo methods for Quantum Gravity via Holography"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mcsmc","quantum gravity","monte carlo","lattice","ads","cft"]
+tags = ["MCSMC","quantum gravity","monte carlo","lattice","ads","cft"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/MCSMC"

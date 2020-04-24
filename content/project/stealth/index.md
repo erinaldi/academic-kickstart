@@ -20,7 +20,7 @@ summary = "Identify new dark matter candidates which are composite and made up o
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["lattice","bsm","stealth","dark-matter","lhc"]
+tags = ["lattice","bsm","stealth","Dark Matter","lhc"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "http://lsd.physics.yale.edu/projects/"

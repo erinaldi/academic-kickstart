@@ -1,58 +1,95 @@
 +++
-# Projects widget.
-# Note: this widget will only display if `content/project/` contains projects.
+# Portfolio widget.
+widget = "portfolio"  # Do not modify this line!
 active = true
-
-title = "Projects"
-subtitle = ""
-widget = "projects"
-
 # Order that this section will appear in.
 weight = 50
 
-# View.
-#   1 = List
-#   3 = Card
-#   5 = Showcase
-view = 2
+title = "Projects"
+subtitle = ""
 
-# Widget layout
-# Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
+[content]
+  # Page type to display. E.g. project.
+  page_type = "project"
 
-# For Showcase view, flip alternate rows?
-flip_alt_rows = false
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
-# Filter toolbar.
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# Use "*" tag to show all projects or an existing tag prefixed with ".js-id-" to filter by specific tag.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
 
-[[filter]]
-  name = "Nuclear Physics"
-  tag = ".js-id-nuclear-physics"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
-[[filter]]
-  name = "Strongly Interacting Gauge Theories"
-  tag = ".js-id-scgt"
+  [[content.filter_button]]
+    name = "Lattice"
+    tag = "lattice"
 
-[[filter]]
-  name = "Strongly Coupled Dark Matter"
-  tag = ".js-id-stealth"
+  [[content.filter_button]]
+    name = "Nuclear Physics"
+    tag = "nuclear-physics"
 
-[[filter]]
-  name = "Axion Dark Matter"
-  tag = ".js-id-axion"
+  [[content.filter_button]]
+    name = "Strongly Interacting Gauge Theories"
+    tag = "scgt"
 
-[[filter]]
-  name = "Quantum Gravity"
-  tag = ".js-id-mcsmc"
+  [[content.filter_button]]
+    name = "Strongly Coupled Dark Matter"
+    tag = "Dark Matter"
 
-[[filter]]
-  name = "Deep Learning"
-  tag = ".js-id-deep-learning"
+  [[content.filter_button]]
+    name = "Axion Dark Matter"
+    tag = "Dark Matter"
 
+  [[content.filter_button]]
+    name = "Quantum Gravity"
+    tag = "MCSMC"
+
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+
+[advanced]
+ # Custom CSS.
+ css_style = ""
+
+ # CSS class.
+ css_class = ""
 +++
