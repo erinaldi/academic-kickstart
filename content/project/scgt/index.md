@@ -8,8 +8,15 @@ title = "Near-conformal gauge theories with many flavors"
 # Project summary to display on homepage.
 summary = "Discover properties of strongly-interacting theories with many quarks via numerical Monte Carlo simulations."
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "sm.jpg"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = "Artwork by HiggsTan. [Web Link](https://higgstan.com/suken-phys/)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

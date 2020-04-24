@@ -8,8 +8,15 @@ title = "Nuclear Physics from Lattice QCD"
 # Project summary to display on homepage.
 summary = "Understand the properties of hadrons from the fundamental theory of quarks and gluons (QCD)."
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "ga.jpg"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = "Artwork by Dr. Evan Berkowitz. [Web Link](https://a51.lbl.gov/~callat/webhome/)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

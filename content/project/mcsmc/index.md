@@ -8,8 +8,15 @@ title = "Monte Carlo String/M-theory Collaboration"
 # Project summary to display on homepage.
 summary = "Develop Monte Carlo methods for Quantum Gravity via Holography"
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "hex_NUMSTRINGS.gif"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = "Logo of the NUMSTRINGS Conference at ICTS in Bangalore. [Web Link](https://www.icts.res.in/program/numstrings2018)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
