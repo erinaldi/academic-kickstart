@@ -1,12 +1,12 @@
 +++
 title = "The Data Science of Physics"
-date = 2019-06-13T10:00:05-04:00  # Schedule page publish date: when it will be shown online...
-draft = false
+publishDate =2019-06-13T10:00:05-04:00  # Schedule page publish date: when it will be shown online...
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-06-13T16:00:00-04:00
-time_end = 2019-06-13T17:00:00-04:00
+date =2019-06-13T16:00:00-04:00
+date_end = 2019-06-13T17:00:00-04:00
 
 # Abstract and optional shortened version.
 abstract = ""

@@ -1,7 +1,7 @@
 +++
 title = "Gauged and Ungauged: A Nonperturbative Test"
 date = 2019-06-13T10:00:00-04:00
-draft = false
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Enrico Rinaldi,  Evan Berkowitz,  Masanori Hanada, Pavlos Vranas"]
@@ -24,6 +24,9 @@ publication_short = "JHEP"
 # Abstract and optional shortened version.
 abstract = ""
 summary = ""
+
+# Digital Object Identifier (DOI)
+doi = ""
 
 # Featured image thumbnail (optional)
 

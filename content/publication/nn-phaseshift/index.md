@@ -1,7 +1,7 @@
 +++
 title = "Two-Nucleon Higher Partial-Wave Scattering from Lattice QCD"
 date = 2018-08-20T14:44:02-04:00
-draft = false
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Evan Berkowitz, Thorsten Kurth, Amy Nicholson, Balint Joo, Enrico Rinaldi, Mark Strother, Pavlos M. Vranas, Andre Walker-Loud"]
@@ -24,6 +24,10 @@ publication_short = "PLB"
 # Abstract and optional shortened version.
 abstract = ""
 summary = ""
+
+# Digital Object Identifier (DOI)
+doi = ""
+
 
 # Featured image thumbnail (optional)
 

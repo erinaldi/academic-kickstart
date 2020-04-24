@@ -1,7 +1,7 @@
 +++
 title = "Viewpoint: Machine Learning Tackles Spacetime"
 date = 2020-03-31T10:00:00-04:00
-draft = false
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Enrico Rinaldi"]
@@ -24,6 +24,9 @@ publication_short = "Physics, APS"
 # Abstract and optional shortened version.
 abstract = ""
 summary = ""
+
+# Digital Object Identifier (DOI)
+doi = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.

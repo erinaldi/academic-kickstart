@@ -1,7 +1,7 @@
 +++
 title = "A per-cent-level determination of the nucleon axial coupling from quantum chromodynamics"
 date = 2018-08-20T14:44:02-04:00
-draft = false
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chia Cheng Chang, Amy Nicholson, Enrico Rinaldi, Evan Berkowitz, Nicolas Garron, David Brantley, Henry Monge-Camacho, Christopher Monahan, Chris Bouchard, M. A. Clark, Balint Joo, Thorsten Kurth, Kostas Orginos, Pavlos Vranas, Andre Walker-Loud"]
@@ -24,6 +24,10 @@ publication_short = "Nature"
 # Abstract and optional shortened version.
 abstract = ""
 summary = ""
+
+# Digital Object Identifier (DOI)
+doi = ""
+
 
 # Featured image thumbnail (optional)
 
