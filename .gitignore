@@ -1,3 +1,6 @@
 public/
 .idea/
+.vscode/
 resources/_gen
+# Jupyter
+.ipynb_checkpoints/
