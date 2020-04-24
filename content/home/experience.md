@@ -1,12 +1,32 @@
 +++
-widget = "custom"
-active = true
+# Experience widget.
+widget = "experience"  # Do not modify this line!
+active = true  # Activate this widget? true/false
 date = 2016-04-20T00:00:00
 
 title = "Experience"
 subtitle = "Current and past affiliations"
 
 weight = 10
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "January 2006"
+
+[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 +++
 ## AI Researcher/Engineer
