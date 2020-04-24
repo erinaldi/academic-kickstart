@@ -1,6 +1,6 @@
 +++
 # Selected Talks widget.
-widget = "talks_selected"
+widget = "talks_featured"
 active = false
 date = 2016-04-20T00:00:00
 
@@ -13,5 +13,5 @@ weight = 50
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 0
+view = 0
 +++

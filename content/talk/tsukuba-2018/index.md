@@ -20,7 +20,7 @@ event_url = ""
 location = "Tsukuba University"
 
 # Is this a selected talk? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.

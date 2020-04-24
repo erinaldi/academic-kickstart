@@ -20,7 +20,7 @@ event_url = "https://indico.cern.ch/event/686555/timetable/#20180704"
 location = "Seoul, Korea"
 
 # Is this a selected talk? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
