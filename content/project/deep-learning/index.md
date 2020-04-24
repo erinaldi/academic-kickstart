@@ -8,8 +8,15 @@ title = "Machine Learning in Physics"
 # Project summary to display on homepage.
 summary = "Identify directions in machine learning that are useful to theoretical particle physics."
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Header_Neural_networks.jpg"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = "Artwork by Sandbox Studio, Chicago with Ana Kova. [Web Link](https://www.symmetrymagazine.org/article/deep-learning-takes-on-physics?language=pt-br&page=1)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
