@@ -1,6 +1,7 @@
 +++
 # About/Biography widget.
 widget = "about"
+headless = true
 active = true
 
 # Order that this section will appear in.

@@ -1,6 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"
+headless = true
 active = true
 
 # Order that this section will appear in.

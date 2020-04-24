@@ -1,8 +1,8 @@
 +++
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
-
 widget = "pages"  # Do not modify this line!
+headless = true
 active = true  # Activate this widget? true/false
 
 # Order that this section will appear in.

@@ -1,6 +1,7 @@
 +++
 # Tag Cloud widget.
 widget = "tag_cloud"
+headless = true
 active = true
 
 title = "Popular topics"

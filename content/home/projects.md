@@ -1,6 +1,7 @@
 +++
 # Portfolio widget.
 widget = "portfolio"  # Do not modify this line!
+headless = true
 active = true
 # Order that this section will appear in.
 weight = 50
