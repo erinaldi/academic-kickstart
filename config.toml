@@ -31,14 +31,8 @@ defaultContentLanguageInSubdir = false
 enableGitInfo = false
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS", "search" ]
+  home = [ "HTML", "CSS", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
-
-[outputFormats.search]
-  baseName = "search"
-  isPlainText = true
-  mediaType = "application/json"
-  notAlternative = true
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
@@ -48,14 +42,7 @@ enableGitInfo = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
-# Color theme.
-#   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
-
-# Font style.
-#   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
-
+# AUTHOR SETUP
   name = "Enrico Rinaldi"
   role = "AI Researcher"
   organization = "Arithmer Inc."
@@ -67,12 +54,8 @@ enableGitInfo = false
   phone = ""
   skype = ""
   telegram = ""
+  keybase = "" # Your keybase.io username.
 
-  # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = ""
-  # Diplay a logo in navigation bar rather than title (optional).
-  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
   # Enable/disable map in Contact widget.
   # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
   # a map provider below.
@@ -94,6 +77,18 @@ enableGitInfo = false
   longitude = "-122.1697"
   zoom = 15
 
+# SITE setup
+
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+  color_theme = "ocean"
+
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  font = "classic"
+  # Diplay a logo in navigation bar rather than title (optional).
+  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+  logo = ""
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Mon, Jan 2, 2006"
@@ -193,19 +188,26 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    #   4 = Stream
+    publication_format = 4
+
+    # Talk list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    talk_format = 2
 
   # Social/Academic Networking
   #
-  # Icon pack "fa" includes the following social network icons:
+  # Icon pack "fab" includes the following social network icons:
   #
   #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
   #   youtube, instagram, soundcloud
   #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   For email icon, use "fas" icon pack, "envelope" icon, and
   #   "mailto:your@email.com" as the link.
   #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #   Full list: https://fontawesome.com/icons
   #
   # Icon pack "ai" includes the following academic network icons:
   #
@@ -215,12 +217,12 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "envelope"
-    icon_pack = "fa"
+    icon_pack = "fas"
     link = "mailto:erinaldi.work@gmail.com"
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/enricesena"
 
   [[params.social]]
@@ -230,12 +232,12 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//linkedin.com/in/erinaldi2"
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/erinaldi"
 
 

@@ -25,8 +25,15 @@ publication_short = "Physics, APS"
 abstract = ""
 abstract_short = ""
 
-# Featured image thumbnail (optional)
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
+[image]
+  # Caption (optional)
+  caption = "Credits: APS/Alan Stonebraker. [Web Link](https://physics.aps.org/articles/v13/40)"
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,11 +69,5 @@ math = false
 
 # Does this page require source code highlighting? (true/false)
 highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "e40_2_medium.jpg"
-caption = "Credits: APS/Alan Stonebraker"
 
 +++
