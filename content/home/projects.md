@@ -21,38 +21,11 @@ subtitle = ""
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+#
+#  [[content.filter_button]]
+#    name = "All"
+#    tag = "*"
 
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Lattice"
-    tag = "lattice"
-
-  [[content.filter_button]]
-    name = "Nuclear Physics"
-    tag = "nuclear-physics"
-
-  [[content.filter_button]]
-    name = "Strongly Interacting Gauge Theories"
-    tag = "scgt"
-
-  [[content.filter_button]]
-    name = "Strongly Coupled Dark Matter"
-    tag = "Dark Matter"
-
-  [[content.filter_button]]
-    name = "Axion Dark Matter"
-    tag = "Dark Matter"
-
-  [[content.filter_button]]
-    name = "Quantum Gravity"
-    tag = "MCSMC"
-
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -62,7 +35,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

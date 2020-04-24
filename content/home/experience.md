@@ -1,17 +1,17 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-headless = true
-active = false  # Activate this widget? true/false
+headless = true # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30
+
 
 title = "Experience"
 subtitle = "Current and past affiliations"
 
-weight = 30
-
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "Jan 2006"
 
 [[experience]]
   title = "AI Researcher/Engineer"
@@ -34,7 +34,7 @@ date_format = "January 2006"
   company = "RIKEN iTHEMS"
   company_url = "https://ithems.riken.jp/en"
   location = "Wako"
-  date_start = "2019-11-01"
+  date_start = "2019-09-30"
   date_end = ""
   description = """
   Research on "Quantum Computing and Machine Learning" for discoveries in physics through computational advantage.
@@ -46,7 +46,7 @@ date_format = "January 2006"
   company_url = "http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/"
   location = "Wako"
   date_start = "2019-04-01"
-  date_end = "2019-09-31"
+  date_end = "2019-09-30"
   description = """
 
   """
@@ -67,7 +67,7 @@ date_format = "January 2006"
   company_url = "https://www.llnl.gov"
   location = "California"
   date_start = "2013-10-01"
-  date_end = "2016-09-31"
+  date_end = "2016-09-30"
   description = """
   """
 
