@@ -13,13 +13,12 @@ weight = 32
 # Number of publications to list.
 count = 10
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-#   4 = Stream
-view = 4
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view = 2
 
 # Filter by publication type.
 # -1: Any

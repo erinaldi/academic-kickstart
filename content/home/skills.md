@@ -2,7 +2,6 @@
 # Feature/Skill widget.
 widget = "featurette"
 active = true
-date = "2017-11-21"
 
 # Order that this section will appear in.
 weight = 5

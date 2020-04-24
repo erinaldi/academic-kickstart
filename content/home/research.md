@@ -1,7 +1,6 @@
 +++
 widget = "custom"
 active = true
-date = 2019-05-07T00:00:00
 
 title = "Research"
 subtitle = ""

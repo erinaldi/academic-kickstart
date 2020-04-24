@@ -1,9 +1,7 @@
 +++
 # Projects widget.
 # Note: this widget will only display if `content/project/` contains projects.
-
-date = "2016-04-20T00:00:00"
-draft = false
+active = true
 
 title = "Projects"
 subtitle = ""
@@ -13,9 +11,9 @@ widget = "projects"
 weight = 30
 
 # View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
+#   1 = List
+#   3 = Card
+#   5 = Showcase
 view = 2
 
 # Widget layout
