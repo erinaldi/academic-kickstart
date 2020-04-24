@@ -40,6 +40,7 @@ enableGitInfo = false
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
 
 [params]
 # AUTHOR SETUP
@@ -58,6 +59,10 @@ enableGitInfo = false
   skype = ""
   telegram = ""
   keybase = "" # Your keybase.io username.
+
+  # Enter an optional link for booking appointments (e.g. calendly.com).
+  appointment_url = ""
+
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
@@ -90,7 +95,7 @@ enableGitInfo = false
   color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
-  
+
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
