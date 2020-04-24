@@ -8,17 +8,17 @@ active = true
 weight = 20
 
 # Add/remove as many `[[feature]]` blocks below as you like.
-# See `config.toml` for more info on available icons.
+# Icons from https://fontawesome.com/icons
 
 [[feature]]
-  icon = "area-chart"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Data Driven"
   description = "Obtain and analyze data to inform decisions. Probabilistic Inference. Descriptive Statistics. Time Series Analysis."
 
 [[feature]]
-  icon = "pencil"
-  icon_pack = "false"
+  icon = "pencil-alt"
+  icon_pack = "fas"
   name = "Mathematical Modeling"
   description = "Simplify complex systems using models defined by mathematical equations. Algorithm development."
 
