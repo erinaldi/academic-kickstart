@@ -1,29 +1,84 @@
 +++
-widget = "custom"
-active = true
-date = 2016-04-20T00:00:00
+# Experience widget.
+widget = "experience"  # Do not modify this line!
+headless = true # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 30
+
 
 title = "Experience"
 subtitle = "Current and past affiliations"
 
-weight = 10
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+[[experience]]
+  title = "AI Researcher/Engineer"
+  company = "Arithmer Inc."
+  company_url = "https://arithmer.co.jp"
+  location = "Tokyo"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """
+  Working on state-of-the-art deep learning algorithms in 3D Computer Vision for robotics and computer graphics. Responsibilities include:
+
+  * Research
+  * Data exploration
+  * Model experiments
+  * Deployment
+  """
+
+[[experience]]
+  title = "Visiting Research Scientist"
+  company = "RIKEN iTHEMS"
+  company_url = "https://ithems.riken.jp/en"
+  location = "Wako"
+  date_start = "2019-09-30"
+  date_end = ""
+  description = """
+  Research on "Quantum Computing and Machine Learning" for discoveries in physics through computational advantage.
+  """
+
+[[experience]]
+  title = "Special Postdoctoral Research Fellow"
+  company = "RIKEN Nishina Center"
+  company_url = "http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/"
+  location = "Wako"
+  date_start = "2019-04-01"
+  date_end = "2019-09-30"
+  description = """
+
+  """
+[[experience]]
+  title = "Special Postdoctoral Research Fellow"
+  company = "RIKEN BNL Research Center"
+  company_url = "http://www.bnl.gov/riken"
+  location = "New York"
+  date_start = "2016-10-01"
+  date_end = "2019-03-31"
+  description = """
+
+  """
+
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "Lawrence Livermore National Laboratory"
+  company_url = "https://www.llnl.gov"
+  location = "California"
+  date_start = "2013-10-01"
+  date_end = "2016-09-30"
+  description = """
+  """
+
+[[experience]]
+  title = "JSPS Short-term Fellow"
+  company = "Kobayashi-Maskawa Institute, Nagoya University"
+  company_url = "http://www.kmi.nagoya-u.ac.jp"
+  location = "Nagoya"
+  date_start = "2012-04-01"
+  date_end = "2012-12-31"
+  description = """
+  """
 
 +++
-## AI Researcher/Engineer
--   Arithmer Inc. - [Arithmer](https://arithmer.co.jp) (2019 - present)
-
-## Visiting Research Scientist
--   RIKEN iTHEMS - [iTHEMS](https://ithems.riken.jp/en) (2019 - present)
-
-## Special Postdoctoral Research Fellow
--   RIKEN Nishina Center - [RIKEN](http://www.riken.jp/en/research/labs/rnc/qtm_had_phys/) (2019 - 2019)
--   RIKEN BNL Research Center - [RBRC](http://www.bnl.gov/riken) (2016 - 2019)
-
-## Visiting Research Affiliate
--   Lawrence Berkeley National Laboratory - [LBNL](https://lbl.gov) (2017 - 2018)
-
-## Postdoctoral Researcher
--   Lawrence Livermore National Laboratory - [LLNL](https://www.llnl.gov) (2013 - 2016)
-
-## JSPS Short-term Fellow
--   Kobayashi-Maskawa Institute, Nagoya University - [KMI](http://www.kmi.nagoya-u.ac.jp) (2012 - 2012)
