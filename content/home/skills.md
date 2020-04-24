@@ -12,25 +12,25 @@ weight = 20
 
 [[feature]]
   icon = "area-chart"
-  icon_pack = "fa"
+  icon_pack = "fas"
   name = "Data Driven"
   description = "Obtain and analyze data to inform decisions. Probabilistic Inference. Descriptive Statistics. Time Series Analysis."
 
 [[feature]]
   icon = "pencil"
-  icon_pack = "fa"
+  icon_pack = "false"
   name = "Mathematical Modeling"
   description = "Simplify complex systems using models defined by mathematical equations. Algorithm development."
 
 [[feature]]
   icon = "code"
-  icon_pack = "fa"
+  icon_pack = "fas"
   name = "Programming"
   description = "Python (PyTorch, TensorFlow, Keras), C/C++, Shell, Lua"
 
 [[feature]]
   icon = "users"
-  icon_pack = "fa"
+  icon_pack = "fas"
   name = "Team player"
   description = "Excellent interpersonal skills. Team leader and team player. Outstanding presentation skills"
 
