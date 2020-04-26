@@ -16,6 +16,19 @@ tags:
   - Monte Carlo
   - Lattice
 
+slides: ''
+
+url_pdf: ''
+url_slides: ''
+url_video: ''
+url_code: ''
+
+
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/enricesena'
 ---
 
 For more details about the Monte Carlo String/M-theory Collaboration, see the github page [MCSMC](https://mcsmc.github.io).

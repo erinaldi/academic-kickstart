@@ -15,7 +15,6 @@ image:
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags:
-  - Lattice
   - Field Theory
   - Particle Physics
   - Machine Learning

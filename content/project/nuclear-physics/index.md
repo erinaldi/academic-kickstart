@@ -1,40 +1,40 @@
-+++
-# Date this page was created.
-date = "2017-04-18"
+---
+date: '2017-04-18'
+title: Nuclear Physics from Lattice QCD
 
-# Project title.
-title = "Nuclear Physics from Lattice QCD"
+summary: >-
+  Understand the properties of hadrons from the fundamental theory of quarks and
+  gluons (QCD).
 
-# Project summary to display on homepage.
-summary = "Understand the properties of hadrons from the fundamental theory of quarks and gluons (QCD)."
+image:
+  caption: >-
+    Artwork by Dr. Evan Berkowitz. [Web
+    Link](https://a51.lbl.gov/~callat/webhome/)
+  focal_point: Smart
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-  # Caption (optional)
-  caption = "Artwork by Dr. Evan Berkowitz. [Web Link](https://a51.lbl.gov/~callat/webhome/)"
+tags:
+  - Nuclear Physics
+  - Supercomputing
+  - Lattice
+  - Particle Physics
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+external_link: ''
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["nuclear-physics","form-factors","nucleon-scattering","lattice-qcd","lattice"]
+slides: ''
 
-# Optional external URL for project (replaces project detail page).
-# If there is an external link, there is no details page for the project...
-#external_link = "http://c51.lbl.gov/~walkloud/callat/"
+url_pdf: ''
+url_slides: ''
+url_video: ''
+url_code: ''
 
-# Does the project detail page use math formatting?
-math = true
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/ga_land.jpg"
-caption = "Credits: E. Berkowitz"
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/enricesena'
 
-+++
+---
 
 Baryons, like the neutron and the proton, are composite particles made up of elementary quarks and gluons, interacting very strongly with each other.
 The strong interactions make the equations of the mathematical theory we use to describe quarks and gluons, namely [Quantum Chromodynamics](https://en.wikipedia.org/wiki/Quantum_chromodynamics) (QCD), impossible to solve analytically with pen and paper methods.
