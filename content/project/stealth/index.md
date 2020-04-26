@@ -9,16 +9,14 @@ summary: >-
 image:
   caption: >-
     3D Dark Matter mass density. Credits: NASA, ESA, and R. Massey (California
-    Institute of Technology). [Web
-    Link](https://hubblesite.org/image/2028/news/29-universe-age-size)
+    Institute of Technology). [Web Link](https://hubblesite.org/image/2028/news/29-universe-age-size)
   focal_point: Smart
 
 tags:
-  - lattice
-  - bsm
-  - stealth
+  - Lattice
   - Dark Matter
-  - lhc
+  - Particle Physics
+  - Supercomputing
 
 external_link: ''
 

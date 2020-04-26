@@ -38,4 +38,4 @@ links:
 
 ---
 
-Page under construction.
+For more information see [DLAP2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/) and [ECTs](https://indico.ectstar.eu/event/77/).
