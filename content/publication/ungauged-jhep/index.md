@@ -1,75 +1,60 @@
-+++
-title = "Gauged and Ungauged: A Nonperturbative Test"
-date = 2019-06-13T10:00:00-04:00
+---
+title: "Gauged and Ungauged: A Nonperturbative Test"
+authors:
+- admin
+- Evan Berkowitz
+- Masanori Hanada
+- Pavlos Vranas
+date: "2018-06-22T10:00:00-04:00"
+doi: "10.1007/JHEP06(2018)124"
 
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Enrico Rinaldi,  Evan Berkowitz,  Masanori Hanada, Pavlos Vranas"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "JHEP 1806 (2018) 124"
-publication_short = "JHEP"
+publication: "Journal of High Energy Physics 2018, 124 (2018)"
+publication_short: "JHEP 1806 (2018) 124"
 
 # Abstract and optional shortened version.
-abstract = ""
-summary = ""
+abstract: "We study the thermodynamics of the ‘ungauged’ D0-brane matrix model by Monte Carlo simulation. Our results appear to be consistent with the conjecture by Maldacena and Milekhin."
 
-# Digital Object Identifier (DOI)
-doi = ""
-
-# Featured image thumbnail (optional)
-
+summary: "We study the thermodynamics of the ‘ungauged’ D0-brane matrix model by Monte Carlo simulation. Our results appear to be consistent with the conjecture by Maldacena and Milekhin."
 
 # Is this a selected publication? (true/false)
-featured = true
+featured: true
 
-# Projects (optional).
+# Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
-#   Simply enter your project's filename without extension.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-#   Otherwise, set `projects = []`.
-projects = ["mcsmc"]
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: ["mcsmc"]
 
 # Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","gravity","Quantum gravity","String Theory","ungauged"]
+tags:
+  - Lattice
+  - Quantum Gravity
+  - String Theory
+  - Black Holes
 
-# Links (optional).
-url_pdf = "https://arxiv.org/pdf/1802.02985"
-url_preprint = "https://arxiv.org/abs/1802.02985"
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+links:
+  - name: "JHEP"
+    url: "https://link.springer.com/article/10.1007/JHEP06(2018)124"
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+url_pdf: 'https://arxiv.org/pdf/1802.02985'
+url_preprint: 'https://arxiv.org/abs/1802.02985'
+url_code: ''
+url_dataset: ''
+url_project: ''
+url_slides: ''
+url_video: ''
+url_poster: ''
+url_source: ''
 
-# Does this page contain LaTeX math? (true/false)
-math = false
-
-# Does this page require source code highlighting? (true/false)
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-
-caption = ""
-
-+++
+---
