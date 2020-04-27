@@ -7,9 +7,7 @@ summary: >-
   gluons (QCD).
 
 image:
-  caption: >-
-    Artwork by Dr. Evan Berkowitz. [Web
-    Link](https://a51.lbl.gov/~callat/webhome/)
+  caption: Artwork by Dr. Evan Berkowitz and Bart-W. van Lith.
   focal_point: Smart
 
 tags:
@@ -33,6 +31,8 @@ links:
     icon: twitter
     name: Follow
     url: 'https://twitter.com/enricesena'
+  - name: CalLat
+    url: 'https://a51.lbl.gov/~callat/webhome/'
 
 ---
 
