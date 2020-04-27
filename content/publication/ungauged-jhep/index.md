@@ -26,6 +26,10 @@ abstract: "We study the thermodynamics of the ‘ungauged’ D0-brane matrix mod
 
 summary: "We study the thermodynamics of the ‘ungauged’ D0-brane matrix model by Monte Carlo simulation. Our results appear to be consistent with the conjecture by Maldacena and Milekhin."
 
+image:
+  caption: Numerical results comparing the energy of gauged and ungauged systems.
+  focal_point: Smart
+
 # Is this a selected publication? (true/false)
 featured: true
 
