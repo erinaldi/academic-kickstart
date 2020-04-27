@@ -1,76 +1,55 @@
-+++
-title = "Toward Holographic Reconstruction of Bulk Geometry from Lattice Simulations"
-date = 2019-06-13T10:00:00-04:00
+---
+title: Toward Holographic Reconstruction of Bulk Geometry from Lattice Simulations
+date: 2018-02-07T00:00:00.000Z
+authors:
+  - admin
+  - Evan Berkowitz
+  - Masanori Hanada
+  - Jonathan Maltz
+  - Pavlos Vranas
+doi: '10.1007/JHEP02(2018)042'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
+
+publication_types:
+  - '2'
 
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Enrico Rinaldi,  Evan Berkowitz,  Masanori Hanada, Jonathan Maltz, Pavlos Vranas"]
-
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["2"]
-
-# Publication name and optional abbreviated version.
-publication = "JHEP 1802 (2018) 042"
-publication_short = "JHEP"
+publication: "Journal of High Energy Physics 2018, 42 (2018)"
+publication_short: "JHEP 1802 (2018) 42"
 
 # Abstract and optional shortened version.
-abstract = ""
-summary = ""
+abstract: "A black hole described in SU(N) gauge theory consists of N D-branes. By separating one of the D-branes from others and studying the interaction between them, the black hole geometry can be probed. In order to obtain quantitative results, we employ the lattice Monte Carlo simulation. As a proof of the concept, we perform an explicit calculation in the matrix model dual to the black zero-brane in type IIA string theory. We demonstrate this method actually works in the high temperature region, where the stringy correction is large. We argue possible dual gravity interpretations."
 
-# Digital Object Identifier (DOI)
-doi = ""
+summary: "A black hole described in SU(N) gauge theory consists of N D-branes. As a proof of the concept, we perform an explicit calculation in the matrix model dual to the black zero-brane in type IIA string theory. We study the geometry of the black hole in this dual representation using lattice Monte Carlo simulations."
+
+featured: false
+
+projects:
+  - mcsmc
 
 
-# Featured image thumbnail (optional)
+tags:
+  - Lattice
+  - Quantum gravity
+  - String Theory
+
+links:
+  - name: "JHEP"
+    url: "http://link.springer.com/10.1007/JHEP02(2018)042"
+  - name: "Altmetric"
+    url: "https://www.altmetric.com/details/24925752"
 
 
-# Is this a selected publication? (true/false)
-featured = true
+url_pdf: 'https://arxiv.org/pdf/1709.01932'
+url_preprint: 'https://arxiv.org/abs/1709.01932'
+url_code: ''
+url_dataset: ''
+url_project: ''
+url_slides: ''
+url_video: ''
+url_poster: ''
+url_source: ''
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's filename without extension.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-#   Otherwise, set `projects = []`.
-projects = ["mcsmc"]
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["lattice","gravity","Quantum gravity","String Theory"]
-
-# Links (optional).
-url_pdf = "https://arxiv.org/pdf/1709.01932"
-url_preprint = "https://arxiv.org/abs/1709.01932"
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
-
-# Does this page contain LaTeX math? (true/false)
-math = false
-
-# Does this page require source code highlighting? (true/false)
-highlight = true
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-
-caption = ""
-
-+++
+---
