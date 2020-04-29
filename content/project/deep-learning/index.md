@@ -15,7 +15,6 @@ image:
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags:
-  - Lattice
   - Field Theory
   - Particle Physics
   - Machine Learning
@@ -39,4 +38,4 @@ links:
 
 ---
 
-Page under construction.
+For more information see [DLAP2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/) and [ECTs](https://indico.ectstar.eu/event/77/).
