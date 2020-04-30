@@ -8,7 +8,7 @@ active = true
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Research"
-subtitle = "A brief overview of my reaserch topics."
+subtitle = "A brief overview of my research topics."
 
 weight = 40
 
