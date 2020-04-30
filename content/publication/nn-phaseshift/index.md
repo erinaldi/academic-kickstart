@@ -1,5 +1,5 @@
 ---
-title: wo-Nucleon Higher Partial-Wave Scattering from Lattice QCD.
+title: Nucleon Higher Partial-Wave Scattering from Lattice QCD.
 date: 2017-02-10T00:00:00.000Z
 authors:
   - admin
