@@ -1,39 +1,38 @@
-+++
-# Date this page was created.
-date = "2017-04-18"
+---
+date: '2017-04-18'
+title: Near-conformal gauge theories with many flavors
 
-# Project title.
-title = "Near-conformal gauge theories with many flavors"
+summary: >-
+  Discover properties of strongly-interacting theories with many quarks via
+  numerical Monte Carlo simulations.
 
-# Project summary to display on homepage.
-summary = "Discover properties of strongly-interacting theories with many quarks via numerical Monte Carlo simulations."
+image:
+  caption: 'Artwork by HiggsTan. [Web Link](https://higgstan.com/suken-phys/)'
+  focal_point: Smart
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder.
-[image]
-  # Caption (optional)
-  caption = "Artwork by HiggsTan. [Web Link](https://higgstan.com/suken-phys/)"
+tags:
+  - Lattice
+  - Particle Physics
+  - Standard Model
+  - Supercomputing
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+external_link: ''
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["scgt","lattice","mcmc","many-flavors","composite-higgs","bsm"]
+slides: ''
 
-# Optional external URL for project (replaces project detail page).
-# external_link = "http://lsd.physics.yale.edu/projects/"
+url_pdf: ''
+url_slides: ''
+url_video: ''
+url_code: ''
 
-# Does the project detail page use math formatting?
-math = true
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/spectrum_over_F_moF_4f8f.jpg"
-caption = "Spectrum of 4f and 8f theories from Lattice simulations."
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/enricesena'
 
-+++
+---
 
 We perform numerical Lattice Quantum Field Theory calculations using Monte Carlo methods to solve the strong dynamics of many flavor systems and understand which ones are close to QCD and which ones have new properties that indicate the existence of near-conformal dynamics.
 
