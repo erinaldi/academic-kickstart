@@ -2,8 +2,8 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 35  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Coursera+Google"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization"
+  url = "https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/FJ3EZJ6ZKVFZ"
+  date_start = "2020-05-01"
   date_end = ""
-  description = ""
+  description = "Google Cloud Platform machine learning. 5 courses: End-to-End Machine Learning with TensorFlow on GCP, Production Machine Learning Systems, Image Understanding with TensorFlow on GCP, Sequence Models for Time Series and Natural Language Processing, Recommendation Systems with TensorFlow on GCP. Skills: TensorFlow, GCP, Kubernetes, Image classification, Time series analysis, NLP, Collaborative filtering."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera+IBM"
+  organization_url = "https://www.coursera.org"
+  title = "Databases and SQL for Data Science"
+  url = "https://www.coursera.org/learn/sql-data-science"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/8ZRBES3F6SGD"
+  date_start = "2019-07-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "IBM Data Science. Skills: Cloud Databases, SQL, Python, Jupyter"
 
 [[item]]
-  organization = "DataCamp"
+  organization = "Coursera+Google"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Getting Started with Google Kubernetes Engine"
+  url = "https://www.coursera.org/learn/google-kubernetes-engine"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/65NXAYH3ZYNV"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = "Google Cloud Platform. Skills: Kubernetes, Kubeflow, Cloud Computing, Continuous Delivery, Jenkins."
 
 +++
